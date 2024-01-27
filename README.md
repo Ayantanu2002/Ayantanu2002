@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ayantanu2002
 - 👀 I’m interested in Data Structure, Machine Learning & Graph Theory
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Graph with Machine Learning
+- 📫 How to reach me : Email:ayantanulaha@gmail.com
 
 <!---
 Ayantanu2002/Ayantanu2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
