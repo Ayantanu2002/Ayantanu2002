@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayantanu2002
-- 👀 I’m interested in Data Structure & Web Development
+- 👀 I’m interested in Data Structure, Machine Learning & Graph Theory
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
