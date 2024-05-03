@@ -6,6 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 💡 Love to solve Data Structures and Algorithms (DSA) problems.
 
 - 🌱 I’m currently learning **Deeplearning, NLP , ReactJs, Blockchain**
