@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **ayantanulaha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AJJSDMTaWHwFuVniTrtD9lMu1AXxF3Q9/view](https://drive.google.com/file/d/1AJJSDMTaWHwFuVniTrtD9lMu1AXxF3Q9/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fKIDbBcyfaFqt_ZrPnD7hEXEEf6kLFxz/view?usp=sharing](https://drive.google.com/file/d/1fKIDbBcyfaFqt_ZrPnD7hEXEEf6kLFxz/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
