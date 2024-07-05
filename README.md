@@ -8,7 +8,7 @@
 
 - 💡 Love to solve Data Structures and Algorithms (DSA) problems.
 
-- 🌱 I’m currently learning **Graph Theory, Theory of Computation, Transformer Architecture, ReactJs**
+- 🌱 I’m currently learning **Multimodal LLM**
 
 - 📫 How to reach me **ayantanulaha@gmail.com**
 
