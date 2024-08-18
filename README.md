@@ -8,7 +8,7 @@
 
 - 💡 Love to solve Data Structures and Algorithms (DSA) problems.
 
-- 🌱 I’m currently learning **Multimodal LLM**
+- 🌱 I’m currently learning **Cross-Lingual Information Retrieval**
 
 - 📫 How to reach me **ayantanulaha@gmail.com**
 
