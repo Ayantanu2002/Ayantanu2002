@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayantanulaha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fKIDbBcyfaFqt_ZrPnD7hEXEEf6kLFxz/view?usp=sharing](https://drive.google.com/file/d/1fKIDbBcyfaFqt_ZrPnD7hEXEEf6kLFxz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fKIDbBcyfaFqt_ZrPnD7hEXEEf6kLFxz/view?usp=sharing]([https://drive.google.com/file/d/1fKIDbBcyfaFqt_ZrPnD7hEXEEf6kLFxz/view?usp=sharing](https://drive.google.com/file/d/1B1HK6iMWKgoGRsHNkP9MzVdJLDB6kv0k/view?usp=drive_link))
 
 
 <h3 align="left">Connect with me:</h3>
