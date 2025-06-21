@@ -2,14 +2,7 @@
 ![Blue Geometric Illustration Graphic Designer LinkedIn Banner (2)](https://github.com/user-attachments/assets/1e6dc3a4-6417-4043-9446-147ce1d402f6)
 ](url)
 <h1 align="center">Hi 👋, I'm Ayantanu Laha</h1>
-<h3 align="center">I'm a Software Engineer at SenSight Technologies Private Limited, currently working in the Autobeacon team. My work primarily involves Google Cloud Platform (GCP), BigQuery, Looker, Python, GeoJson, Streamlit and Generative AI.
-
-I earned my Bachelor of Science in Computer Science from Ramakrishna Mission Residential College (Autonomous), Kolkata, graduating in June 2023. I’m currently pursuing a Master of Science in Computer Science at Ramakrishna Mission Vivekananda Educational and Research Institute, Howrah.
-
-As an active member of the tech community, I’m always excited to explore new technologies and deepen my expertise.
-
-Skills: C++, Python, Django, Streamlit, Folium, MySQL, GCP, BigQuery, Looker, Amazon QuickSight
-
+<h3 align="center">I'm a Software Engineer at SenSight Technologies Private Limited, currently working in the Autobeacon team.
 I’m passionate about programming and continuously seek opportunities to grow, contribute meaningfully, and drive innovation.
 
 Let’s connect!
