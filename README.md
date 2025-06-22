@@ -2,16 +2,15 @@
 ![Blue Geometric Illustration Graphic Designer LinkedIn Banner (2)](https://github.com/user-attachments/assets/1e6dc3a4-6417-4043-9446-147ce1d402f6)
 ](url)
 <h1 align="center">Hi 👋, I'm Ayantanu Laha</h1>
-<h3 align="center">I'm a Software Engineer at SenSight Technologies Private Limited, currently working in the Autobeacon team.
-I’m passionate about programming and continuously seek opportunities to grow, contribute meaningfully, and drive innovation.
+<h3 align="center">Software Engineer at SenSight Technologies Pvt. Ltd.</h3>
 
-Let’s connect!
-📧 Email: ayantanulaha@gmail.com
-🌐 Website : https://ayantanu2002.github.io/resume/index.html</h3
+<p align="center">
+  👨‍💻 Currently working in the <strong>Autobeacon team</strong><br>
+  🚀 Passionate about <strong>programming</strong> and building innovative tech solutions<br>
+  🌱 Eager to <strong>learn</strong>, <strong>grow</strong>, and <strong>contribute meaningfully</strong> to impactful projects
+</p>
+
                                                                        
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayantanu2002&label=Profile%20views&color=0e75b6&style=flat" alt="ayantanu2002" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
